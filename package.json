@@ -1,0 +1,15 @@
+{
+  "name": "crud-con-node",
+  "version": "1.0.0",
+  "description": "Ejemplo para conocer node",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Aristizabal Leon <gabrielestudios2021@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.4"
+  }
+}
